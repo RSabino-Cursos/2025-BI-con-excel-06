@@ -1,0 +1,338 @@
+﻿Año;Fecha;Mes;Nombre del Mes;ID Producto;Producto;Cantidad;Precio;ID Sucursal
+2022;03/01/2022;1;Enero;510;Café pasado;5;30;SCB_01
+2022;04/01/2022;1;Enero;510;Café pasado;7;42;SCB_01
+2022;05/01/2022;1;Enero;510;Café pasado;3;18;SCB_01
+2022;12/01/2022;1;Enero;510;Café pasado;3;18;SCB_01
+2022;12/01/2022;1;Enero;510;Café pasado;5;30;SCB_01
+2022;17/01/2022;1;Enero;510;Café pasado;2;12;SCB_01
+2022;19/01/2022;1;Enero;510;Café pasado;7;42;SCB_01
+2022;28/01/2022;1;Enero;510;Café pasado;5;30;SCB_01
+2022;31/01/2022;1;Enero;510;Café pasado;5;30;SCB_01
+2022;03/01/2022;1;Enero;516;Arepas;4;18;SCB_01
+2022;04/01/2022;1;Enero;514;Churros;10;65;SCB_01
+2022;05/01/2022;1;Enero;548;Agua;3;6;SCB_01
+2022;26/01/2022;1;Enero;548;Agua;2;4;SCB_01
+2022;06/01/2022;1;Enero;530;Cappuccino;3;25,5;SCB_01
+2022;21/01/2022;1;Enero;530;Cappuccino;2;17;SCB_01
+2022;06/01/2022;1;Enero;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;21/01/2022;1;Enero;540;Sándwiche de pollo;10;75;SCB_01
+2022;07/01/2022;1;Enero;524;Té;6;12;SCB_01
+2022;07/01/2022;1;Enero;562;Enrollado;2;10;SCB_01
+2022;10/01/2022;1;Enero;560;Gaseosa;2;16;SCB_01
+2022;14/01/2022;1;Enero;560;Gaseosa;4;32;SCB_01
+2022;10/01/2022;1;Enero;542;Zuma de Naranja;2;20;SCB_01
+2022;14/01/2022;1;Enero;518;Nuggets;4;16;SCB_01
+2022;17/01/2022;1;Enero;580;Café Expreso;5;40;SCB_01
+2022;24/01/2022;1;Enero;580;Café Expreso;4;32;SCB_01
+2022;31/01/2022;1;Enero;580;Café Expreso;5;40;SCB_01
+2022;19/01/2022;1;Enero;578;Cafe latte;1;15,5;SCB_01
+2022;24/01/2022;1;Enero;536;Mini Pizza;3;15;SCB_01
+2022;26/01/2022;1;Enero;520;Empanada;4;16;SCB_01
+2022;28/01/2022;1;Enero;522;Palitos de Queso;5;20;SCB_01
+2022;07/02/2022;2;Febrero;532;Chocolate;2;20;SCB_01
+2022;07/02/2022;2;Febrero;544;Hamburguesa;3;36;SCB_01
+2022;07/02/2022;2;Febrero;514;Churros;11;71,5;SCB_01
+2022;07/02/2022;2;Febrero;548;Agua;10;20;SCB_01
+2022;08/02/2022;2;Febrero;536;Mini Pizza;5;25;SCB_01
+2022;08/02/2022;2;Febrero;542;Zuma de Naranja;3;30;SCB_01
+2022;09/02/2022;2;Febrero;514;Churros;12;78;SCB_01
+2022;09/02/2022;2;Febrero;548;Agua;10;20;SCB_01
+2022;10/02/2022;2;Febrero;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;10/02/2022;2;Febrero;560;Gaseosa;5;40;SCB_01
+2022;11/02/2022;2;Febrero;516;Arepas;7;31,5;SCB_01
+2022;11/02/2022;2;Febrero;530;Cappuccino;5;42,5;SCB_01
+2022;21/02/2022;2;Febrero;518;Nuggets;4;16;SCB_01
+2022;21/02/2022;2;Febrero;524;Té;3;6;SCB_01
+2022;23/02/2022;2;Febrero;520;Empanada;6;24;SCB_01
+2022;23/02/2022;2;Febrero;580;Café Expreso;6;48;SCB_01
+2022;24/02/2022;2;Febrero;522;Palitos de Queso;6;24;SCB_01
+2022;24/02/2022;2;Febrero;510;Café pasado;6;36;SCB_01
+2022;25/02/2022;2;Febrero;562;Enrollado;5;25;SCB_01
+2022;25/02/2022;2;Febrero;510;Café pasado;6;36;SCB_01
+2022;07/03/2022;3;Marzo;532;Chocolate;2;20;SCB_01
+2022;07/03/2022;3;Marzo;544;Hamburguesa;4;48;SCB_01
+2022;08/03/2022;3;Marzo;536;Mini Pizza;5;25;SCB_01
+2022;08/03/2022;3;Marzo;580;Café Expreso;7;56;SCB_01
+2022;14/03/2022;3;Marzo;514;Churros;9;58,5;SCB_01
+2022;14/03/2022;3;Marzo;548;Agua;10;20;SCB_01
+2022;16/03/2022;3;Marzo;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;16/03/2022;3;Marzo;560;Gaseosa;5;40;SCB_01
+2022;18/03/2022;3;Marzo;516;Arepas;7;31,5;SCB_01
+2022;18/03/2022;3;Marzo;530;Cappuccino;5;42,5;SCB_01
+2022;19/03/2022;3;Marzo;524;Té;3;6;SCB_01
+2022;19/03/2022;3;Marzo;580;Café Expreso;5;40;SCB_01
+2022;22/03/2022;3;Marzo;518;Nuggets;4;16;SCB_01
+2022;22/03/2022;3;Marzo;524;Té;3;6;SCB_01
+2022;24/03/2022;3;Marzo;520;Empanada;6;24;SCB_01
+2022;24/03/2022;3;Marzo;580;Café Expreso;6;48;SCB_01
+2022;26/03/2022;3;Marzo;522;Palitos de Queso;6;24;SCB_01
+2022;26/03/2022;3;Marzo;510;Café pasado;6;36;SCB_01
+2022;28/03/2022;3;Marzo;562;Enrollado;5;25;SCB_01
+2022;28/03/2022;3;Marzo;510;Café pasado;6;36;SCB_01
+2022;30/03/2022;3;Marzo;544;Hamburguesa;2;24;SCB_01
+2022;04/04/2022;4;Abril;532;Chocolate;2;20;SCB_01
+2022;04/04/2022;4;Abril;544;Hamburguesa;2;24;SCB_01
+2022;06/04/2022;4;Abril;536;Mini Pizza;5;25;SCB_01
+2022;06/04/2022;4;Abril;580;Café Expreso;3;24;SCB_01
+2022;08/04/2022;4;Abril;514;Churros;8;52;SCB_01
+2022;08/04/2022;4;Abril;548;Agua;10;20;SCB_01
+2022;12/04/2022;4;Abril;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;12/04/2022;4;Abril;560;Gaseosa;5;40;SCB_01
+2022;14/04/2022;4;Abril;516;Arepas;7;31,5;SCB_01
+2022;14/04/2022;4;Abril;530;Cappuccino;5;42,5;SCB_01
+2022;18/04/2022;4;Abril;518;Nuggets;4;16;SCB_01
+2022;18/04/2022;4;Abril;524;Té;3;6;SCB_01
+2022;20/04/2022;4;Abril;520;Empanada;6;24;SCB_01
+2022;20/04/2022;4;Abril;580;Café Expreso;6;48;SCB_01
+2022;22/04/2022;4;Abril;522;Palitos de Queso;6;24;SCB_01
+2022;22/04/2022;4;Abril;510;Café pasado;6;36;SCB_01
+2022;26/04/2022;4;Abril;562;Enrollado;5;25;SCB_01
+2022;26/04/2022;4;Abril;510;Café pasado;6;36;SCB_01
+2022;02/05/2022;5;Mayo;532;Chocolate;2;20;SCB_01
+2022;02/05/2022;5;Mayo;544;Hamburguesa;3;36;SCB_01
+2022;04/05/2022;5;Mayo;536;Mini Pizza;5;25;SCB_01
+2022;04/05/2022;5;Mayo;580;Café Expreso;3;24;SCB_01
+2022;06/05/2022;5;Mayo;514;Churros;7;45,5;SCB_01
+2022;06/05/2022;5;Mayo;548;Agua;10;20;SCB_01
+2022;09/05/2022;5;Mayo;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;09/05/2022;5;Mayo;560;Gaseosa;5;40;SCB_01
+2022;16/05/2022;5;Mayo;516;Arepas;7;31,5;SCB_01
+2022;16/05/2022;5;Mayo;530;Cappuccino;5;42,5;SCB_01
+2022;18/05/2022;5;Mayo;518;Nuggets;4;16;SCB_01
+2022;18/05/2022;5;Mayo;524;Té;3;6;SCB_01
+2022;20/05/2022;5;Mayo;520;Empanada;6;24;SCB_01
+2022;20/05/2022;5;Mayo;580;Café Expreso;6;48;SCB_01
+2022;23/05/2022;5;Mayo;522;Palitos de Queso;6;24;SCB_01
+2022;23/05/2022;5;Mayo;510;Café pasado;6;36;SCB_01
+2022;25/05/2022;5;Mayo;562;Enrollado;5;25;SCB_01
+2022;25/05/2022;5;Mayo;510;Café pasado;6;36;SCB_01
+2022;26/05/2022;5;Mayo;532;Chocolate;2;20;SCB_01
+2022;26/05/2022;5;Mayo;544;Hamburguesa;4;48;SCB_01
+2022;26/05/2022;5;Mayo;536;Mini Pizza;5;25;SCB_01
+2022;27/05/2022;5;Mayo;580;Café Expreso;3;24;SCB_01
+2022;27/05/2022;5;Mayo;514;Churros;9;58,5;SCB_01
+2022;01/06/2022;6;Junio;532;Chocolate;2;20;SCB_01
+2022;01/06/2022;6;Junio;544;Hamburguesa;2;24;SCB_01
+2022;03/06/2022;6;Junio;536;Mini Pizza;5;25;SCB_01
+2022;06/06/2022;6;Junio;580;Café Expreso;3;24;SCB_01
+2022;06/06/2022;6;Junio;514;Churros;8;52;SCB_01
+2022;08/06/2022;6;Junio;548;Agua;10;20;SCB_01
+2022;08/06/2022;6;Junio;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;10/06/2022;6;Junio;560;Gaseosa;5;40;SCB_01
+2022;20/06/2022;6;Junio;516;Arepas;7;31,5;SCB_01
+2022;20/06/2022;6;Junio;530;Cappuccino;5;42,5;SCB_01
+2022;22/06/2022;6;Junio;518;Nuggets;4;16;SCB_01
+2022;22/06/2022;6;Junio;524;Té;3;6;SCB_01
+2022;24/06/2022;6;Junio;520;Empanada;6;24;SCB_01
+2022;24/06/2022;6;Junio;580;Café Expreso;6;48;SCB_01
+2022;27/06/2022;6;Junio;522;Palitos de Queso;6;24;SCB_01
+2022;27/06/2022;6;Junio;510;Café pasado;6;36;SCB_01
+2022;29/06/2022;6;Junio;562;Enrollado;5;25;SCB_01
+2022;29/06/2022;6;Junio;510;Café pasado;6;36;SCB_01
+2022;30/06/2022;6;Junio;576;Frappé;10;125;SCB_01
+2022;30/06/2022;6;Junio;578;Cappuccino;4;62;SCB_01
+2022;30/06/2022;6;Junio;532;Chocolate;2;20;SCB_01
+2022;30/06/2022;6;Junio;544;Hamburguesa;2;24;SCB_01
+2022;03/07/2022;7;Julio;532;Chocolate;2;20;SCB_01
+2022;03/07/2022;7;Julio;544;Hamburguesa;2;24;SCB_01
+2022;05/07/2022;7;Julio;536;Mini Pizza;5;25;SCB_01
+2022;05/07/2022;7;Julio;580;Café Expreso;3;24;SCB_01
+2022;07/07/2022;7;Julio;514;Churros;8;52;SCB_01
+2022;07/07/2022;7;Julio;548;Agua;10;20;SCB_01
+2022;10/07/2022;7;Julio;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;10/07/2022;7;Julio;560;Gaseosa;5;40;SCB_01
+2022;12/07/2022;7;Julio;516;Arepas;7;31,5;SCB_01
+2022;12/07/2022;7;Julio;530;Cappuccino;5;42,5;SCB_01
+2022;14/07/2022;7;Julio;518;Nuggets;4;16;SCB_01
+2022;14/07/2022;7;Julio;524;Té;3;6;SCB_01
+2022;24/07/2022;7;Julio;520;Empanada;6;24;SCB_01
+2022;24/07/2022;7;Julio;580;Café Expreso;6;48;SCB_01
+2022;26/07/2022;7;Julio;522;Palitos de Queso;6;24;SCB_01
+2022;26/07/2022;7;Julio;510;Café pasado;6;36;SCB_01
+2022;28/07/2022;7;Julio;562;Enrollado;5;25;SCB_01
+2022;28/07/2022;7;Julio;510;Café pasado;6;36;SCB_01
+2022;29/07/2022;7;Julio;532;Chocolate;2;20;SCB_01
+2022;29/07/2022;7;Julio;544;Hamburguesa;2;24;SCB_01
+2022;29/07/2022;7;Julio;536;Mini Pizza;5;25;SCB_01
+2022;29/07/2022;7;Julio;580;Café Expreso;3;24;SCB_01
+2022;01/08/2022;8;Agosto;532;Chocolate;2;20;SCB_01
+2022;01/08/2022;8;Agosto;544;Hamburguesa;2;24;SCB_01
+2022;03/08/2022;8;Agosto;536;Mini Pizza;5;25;SCB_01
+2022;03/08/2022;8;Agosto;580;Café Expreso;3;24;SCB_01
+2022;05/08/2022;8;Agosto;514;Churros;9;58,5;SCB_01
+2022;05/08/2022;8;Agosto;548;Agua;10;20;SCB_01
+2022;08/08/2022;8;Agosto;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;08/08/2022;8;Agosto;560;Gaseosa;5;40;SCB_01
+2022;10/08/2022;8;Agosto;516;Arepas;7;31,5;SCB_01
+2022;10/08/2022;8;Agosto;530;Cappuccino;5;42,5;SCB_01
+2022;12/08/2022;8;Agosto;518;Nuggets;4;16;SCB_01
+2022;12/08/2022;8;Agosto;524;Té;3;6;SCB_01
+2022;22/08/2022;8;Agosto;520;Empanada;6;24;SCB_01
+2022;22/08/2022;8;Agosto;580;Café Expreso;4;32;SCB_01
+2022;23/08/2022;8;Agosto;510;Café pasado;6;36;SCB_01
+2022;23/08/2022;8;Agosto;532;Chocolate;2;20;SCB_01
+2022;23/08/2022;8;Agosto;544;Hamburguesa;2;24;SCB_01
+2022;23/08/2022;8;Agosto;536;Mini Pizza;5;25;SCB_01
+2022;23/08/2022;8;Agosto;580;Café Expreso;3;24;SCB_01
+2022;24/08/2022;8;Agosto;522;Palitos de Queso;6;24;SCB_01
+2022;24/08/2022;8;Agosto;510;Café pasado;6;36;SCB_01
+2022;26/08/2022;8;Agosto;562;Enrollado;5;25;SCB_01
+2022;26/08/2022;8;Agosto;510;Café pasado;6;36;SCB_01
+2022;05/09/2022;9;Septiembre;532;Chocolate;2;20;SCB_01
+2022;05/09/2022;9;Septiembre;544;Hamburguesa;3;36;SCB_01
+2022;07/09/2022;9;Septiembre;536;Mini Pizza;5;25;SCB_01
+2022;07/09/2022;9;Septiembre;580;Café Expreso;3;24;SCB_01
+2022;09/09/2022;9;Septiembre;514;Churros;7;45,5;SCB_01
+2022;09/09/2022;9;Septiembre;548;Agua;10;20;SCB_01
+2022;12/09/2022;9;Septiembre;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;12/09/2022;9;Septiembre;560;Gaseosa;5;40;SCB_01
+2022;14/09/2022;9;Septiembre;516;Arepas;7;31,5;SCB_01
+2022;14/09/2022;9;Septiembre;530;Cappuccino;5;42,5;SCB_01
+2022;16/09/2022;9;Septiembre;518;Nuggets;4;16;SCB_01
+2022;16/09/2022;9;Septiembre;524;Té;3;6;SCB_01
+2022;26/09/2022;9;Septiembre;520;Empanada;6;24;SCB_01
+2022;26/09/2022;9;Septiembre;542;Zuma de Naranja;4;40;SCB_01
+2022;28/09/2022;9;Septiembre;522;Palitos de Queso;6;24;SCB_01
+2022;28/09/2022;9;Septiembre;510;Café pasado;6;36;SCB_01
+2022;30/09/2022;9;Septiembre;562;Enrollado;5;25;SCB_01
+2022;30/09/2022;9;Septiembre;510;Café pasado;6;36;SCB_01
+2022;03/10/2022;10;Octubre;532;Chocolate;3;30;SCB_01
+2022;03/10/2022;10;Octubre;544;Hamburguesa;4;48;SCB_01
+2022;05/10/2022;10;Octubre;536;Mini Pizza;5;25;SCB_01
+2022;05/10/2022;10;Octubre;542;Zuma de Naranja;1;10;SCB_01
+2022;07/10/2022;10;Octubre;514;Churros;6;39;SCB_01
+2022;07/10/2022;10;Octubre;548;Agua;10;20;SCB_01
+2022;08/10/2022;10;Octubre;580;Café Expreso;7;56;SCB_01
+2022;08/10/2022;10;Octubre;522;Palitos de Queso;5;20;SCB_01
+2022;08/10/2022;10;Octubre;524;Té;3;6;SCB_01
+2022;08/10/2022;10;Octubre;530;Cappuccino;6;51;SCB_01
+2022;08/10/2022;10;Octubre;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;10/10/2022;10;Octubre;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;10/10/2022;10;Octubre;560;Gaseosa;5;40;SCB_01
+2022;12/10/2022;10;Octubre;516;Arepas;7;31,5;SCB_01
+2022;12/10/2022;10;Octubre;530;Cappuccino;5;42,5;SCB_01
+2022;14/10/2022;10;Octubre;518;Nuggets;4;16;SCB_01
+2022;14/10/2022;10;Octubre;524;Té;3;6;SCB_01
+2022;24/10/2022;10;Octubre;520;Empanada;6;24;SCB_01
+2022;24/10/2022;10;Octubre;542;Zuma de Naranja;3;30;SCB_01
+2022;26/10/2022;10;Octubre;522;Palitos de Queso;6;24;SCB_01
+2022;26/10/2022;10;Octubre;510;Café pasado;6;36;SCB_01
+2022;28/10/2022;10;Octubre;562;Enrollado;5;25;SCB_01
+2022;28/10/2022;10;Octubre;510;Café pasado;6;36;SCB_01
+2022;01/11/2022;11;Noviembre;532;Chocolate;1;10;SCB_01
+2022;01/11/2022;11;Noviembre;544;Hamburguesa;3;36;SCB_01
+2022;03/11/2022;11;Noviembre;536;Mini Pizza;5;25;SCB_01
+2022;03/11/2022;11;Noviembre;542;Zuma de Naranja;3;30;SCB_01
+2022;14/11/2022;11;Noviembre;514;Churros;8;52;SCB_01
+2022;14/11/2022;11;Noviembre;548;Agua;10;20;SCB_01
+2022;16/11/2022;11;Noviembre;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;16/11/2022;11;Noviembre;560;Gaseosa;5;40;SCB_01
+2022;18/11/2022;11;Noviembre;516;Arepas;7;31,5;SCB_01
+2022;18/11/2022;11;Noviembre;530;Cappuccino;5;42,5;SCB_01
+2022;21/11/2022;11;Noviembre;518;Nuggets;4;16;SCB_01
+2022;21/11/2022;11;Noviembre;524;Té;3;6;SCB_01
+2022;23/11/2022;11;Noviembre;520;Empanada;6;24;SCB_01
+2022;23/11/2022;11;Noviembre;542;Zuma de Naranja;2;20;SCB_01
+2022;25/11/2022;11;Noviembre;522;Palitos de Queso;6;24;SCB_01
+2022;25/11/2022;11;Noviembre;510;Café pasado;6;36;SCB_01
+2022;28/11/2022;11;Noviembre;562;Enrollado;5;25;SCB_01
+2022;28/11/2022;11;Noviembre;510;Café pasado;6;36;SCB_01
+2022;29/11/2022;11;Noviembre;518;Nuggets;4;16;SCB_01
+2022;29/11/2022;11;Noviembre;524;Té;3;6;SCB_01
+2022;29/11/2022;11;Noviembre;520;Empanada;6;24;SCB_01
+2022;29/11/2022;11;Noviembre;542;Zuma de Naranja;3;30;SCB_01
+2022;29/11/2022;11;Noviembre;522;Palitos de Queso;6;24;SCB_01
+2022;05/12/2022;12;Diciembre;532;Chocolate;1;10;SCB_01
+2022;05/12/2022;12;Diciembre;544;Hamburguesa;3;36;SCB_01
+2022;07/12/2022;12;Diciembre;536;Mini Pizza;5;25;SCB_01
+2022;07/12/2022;12;Diciembre;542;Zuma de Naranja;2;20;SCB_01
+2022;09/12/2022;12;Diciembre;514;Churros;9;58,5;SCB_01
+2022;09/12/2022;12;Diciembre;548;Agua;10;20;SCB_01
+2022;12/12/2022;12;Diciembre;540;Sándwiche de pollo;5;37,5;SCB_01
+2022;12/12/2022;12;Diciembre;560;Gaseosa;5;40;SCB_01
+2022;14/12/2022;12;Diciembre;516;Arepas;7;31,5;SCB_01
+2022;14/12/2022;12;Diciembre;530;Cappuccino;5;42,5;SCB_01
+2022;16/12/2022;12;Diciembre;518;Nuggets;4;16;SCB_01
+2022;16/12/2022;12;Diciembre;524;Té;3;6;SCB_01
+2022;17/12/2022;12;Diciembre;576;Frappé;10;125;SCB_01
+2022;17/12/2022;12;Diciembre;578;Cafe latte;4;62;SCB_01
+2022;17/12/2022;12;Diciembre;580;Café Expreso;6;48;SCB_01
+2022;17/12/2022;12;Diciembre;568;Quichê;7;73,5;SCB_01
+2022;19/12/2022;12;Diciembre;520;Empanada;6;24;SCB_01
+2022;19/12/2022;12;Diciembre;542;Zuma de Naranja;4;40;SCB_01
+2022;21/12/2022;12;Diciembre;522;Palitos de Queso;6;24;SCB_01
+2022;21/12/2022;12;Diciembre;510;Café pasado;6;36;SCB_01
+2022;23/12/2022;12;Diciembre;562;Enrollado;5;25;SCB_01
+2022;23/12/2022;12;Diciembre;510;Café pasado;6;36;SCB_01
+2023;10/01/2023;1;Enero;510;Café pasado;7;42;SCB_01
+2023;10/01/2023;1;Enero;514;Churros;6;39;SCB_01
+2023;10/01/2023;1;Enero;516;Arepas;4;18;SCB_01
+2023;10/01/2023;1;Enero;580;Café Expreso;8;64;SCB_01
+2023;12/01/2023;1;Enero;580;Café Expreso;7;56;SCB_01
+2023;12/01/2023;1;Enero;516;Arepas;5;22,5;SCB_01
+2023;12/01/2023;1;Enero;580;Café Expreso;6;48;SCB_01
+2023;14/01/2023;1;Enero;522;Palitos de Queso;5;20;SCB_01
+2023;17/01/2023;1;Enero;524;Té;3;6;SCB_01
+2023;19/01/2023;1;Enero;530;Cappuccino;6;51;SCB_01
+2023;21/01/2023;1;Enero;536;Mini Pizza;3;15;SCB_01
+2023;24/01/2023;1;Enero;540;Sándwiche de pollo;7;52,5;SCB_01
+2023;26/01/2023;1;Enero;580;Café Expreso;8;64;SCB_01
+2023;26/01/2023;1;Enero;576;Frappé;10;125;SCB_01
+2023;26/01/2023;1;Enero;578;Cafe latte;4;62;SCB_01
+2023;27/01/2023;1;Enero;580;Café Expreso;7;56;SCB_01
+2023;27/01/2023;1;Enero;568;Quichê;7;73,5;SCB_01
+2023;28/01/2023;1;Enero;580;Café Expreso;9;72;SCB_01
+2023;28/01/2023;1;Enero;580;Café Expreso;9;72;SCB_01
+2023;29/01/2023;1;Enero;576;Frappé;10;125;SCB_01
+2023;29/01/2023;1;Enero;542;Zuma de Naranja;3;30;SCB_01
+2023;29/01/2023;1;Enero;548;Agua;5;10;SCB_01
+2023;29/01/2023;1;Enero;560;Gaseosa;10;80;SCB_01
+2023;29/01/2023;1;Enero;572;Rosquillas;6;36;SCB_01
+2023;29/01/2023;1;Enero;574;Trufas de chocolate;5;27,5;SCB_01
+2023;07/02/2023;2;Febrero;542;Zuma de Naranja;1;10;SCB_01
+2023;08/02/2023;2;Febrero;548;Agua;5;10;SCB_01
+2023;09/02/2023;2;Febrero;560;Gaseosa;2;16;SCB_01
+2023;10/02/2023;2;Febrero;566;Torta;2;17;SCB_01
+2023;11/02/2023;2;Febrero;576;Frappé;10;125;SCB_01
+2023;11/02/2023;2;Febrero;578;Cafe latte;4;62;SCB_01
+2023;11/02/2023;2;Febrero;580;Café Expreso;9;72;SCB_01
+2023;11/02/2023;2;Febrero;568;Quichê;7;73,5;SCB_01
+2023;12/02/2023;2;Febrero;576;Frappé;10;125;SCB_01
+2023;12/02/2023;2;Febrero;578;Cafe latte;10;155;SCB_01
+2023;12/02/2023;2;Febrero;580;Café Expreso;6;48;SCB_01
+2023;12/02/2023;2;Febrero;568;Quichê;7;73,5;SCB_01
+2023;21/02/2023;2;Febrero;568;Quichê;3;31,5;SCB_01
+2023;23/02/2023;2;Febrero;570;Caramandunga;3;15;SCB_01
+2023;24/02/2023;2;Febrero;572;Rosquillas;5;30;SCB_01
+2023;25/02/2023;2;Febrero;574;Trufas de chocolate;5;27,5;SCB_01
+2023;27/02/2023;2;Febrero;580;Café Expreso;8;64;SCB_01
+2023;27/02/2023;2;Febrero;518;Nuggets;3;12;SCB_01
+2023;28/02/2023;2;Febrero;580;Café Expreso;9;72;SCB_01
+2023;28/02/2023;2;Febrero;520;Empanada;5;20;SCB_01
+2023;28/02/2023;2;Febrero;530;Cappuccino;7;59,5;SCB_01
+2023;28/02/2023;2;Febrero;540;Sándwiche de pollo;10;75;SCB_01
+2023;28/02/2023;2;Febrero;542;Zuma de Naranja;3;30;SCB_01
+2023;28/02/2023;2;Febrero;548;Agua;5;10;SCB_01
+2023;07/03/2023;3;Marzo;576;Frappé;4;50;SCB_01
+2023;08/03/2023;3;Marzo;578;Cafe latte;4;62;SCB_01
+2023;14/03/2023;3;Marzo;580;Café Expreso;5;40;SCB_01
+2023;15/03/2023;3;Marzo;510;Café pasado;5;30;SCB_01
+2023;15/03/2023;3;Marzo;580;Café Expreso;9;72;SCB_01
+2023;16/03/2023;3;Marzo;514;Churros;7;45,5;SCB_01
+2023;16/03/2023;3;Marzo;580;Café Expreso;8;64;SCB_01
+2023;17/03/2023;3;Marzo;516;Arepas;5;22,5;SCB_01
+2023;17/03/2023;3;Marzo;580;Café Expreso;9;72;SCB_01
+2023;18/03/2023;3;Marzo;518;Nuggets;3;12;SCB_01
+2023;18/03/2023;3;Marzo;580;Café Expreso;7;56;SCB_01
+2023;19/03/2023;3;Marzo;520;Empanada;5;20;SCB_01
+2023;20/03/2023;3;Marzo;530;Cappuccino;7;59,5;SCB_01
+2023;20/03/2023;3;Marzo;540;Sándwiche de pollo;10;75;SCB_01
+2023;20/03/2023;3;Marzo;542;Zuma de Naranja;2;20;SCB_01
+2023;20/03/2023;3;Marzo;548;Agua;5;10;SCB_01
+2023;20/03/2023;3;Marzo;560;Gaseosa;10;80;SCB_01
+2023;20/03/2023;3;Marzo;572;Rosquillas;6;36;SCB_01
+2023;20/03/2023;3;Marzo;574;Trufas de chocolate;5;27,5;SCB_01
+2023;21/03/2023;3;Marzo;568;Quichê;7;73,5;SCB_01
+2023;22/03/2023;3;Marzo;580;Café Expreso;8;64;SCB_01
+2023;22/03/2023;3;Marzo;580;Café Expreso;8;64;SCB_01
+2023;22/03/2023;3;Marzo;576;Frappé;10;125;SCB_01
